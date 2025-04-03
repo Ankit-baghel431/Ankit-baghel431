@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ankit
 
-<!--
-**Ankit-baghel431/Ankit-baghel431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate software developer with a keen interest in front-end development, algorithms, and AI-powered applications. I enjoy working on projects that involve building intuitive user interfaces, optimizing performance, and leveraging AI for smarter solutions.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages**: Java, JavaScript, HTML, CSS
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Cloud**: AWS Services
+- **Other Tools**: Git, Docker, Postman, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+### 🛍️ [Product Search Web Platform](#)
+A web platform that provides:
+- Price comparisons from multiple e-commerce sites.
+- AI-powered insights for better product selection.
+- Smart recommendations for alternatives.
+
+### 💬 [Chat Application](#)
+A real-time chat app built with React and MongoDB, featuring:
+- User authentication.
+- Instant messaging.
+- Modern UI with smooth animations.
+
+### 🎟️ [Movie Ticket Booking App](#)
+A seamless movie ticket booking experience with:
+- User-friendly seat selection.
+- Payment integration.
+- Movie recommendations.
+
+## 📫 Connect with Me
+- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [Your Email](mailto:your.email@example.com)
+
+Let's build something amazing together! 🚀
+
