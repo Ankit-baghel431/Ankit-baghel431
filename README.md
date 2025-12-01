@@ -77,12 +77,20 @@ I enjoy creating apps that are **simple, fast, and intuitive**.
 # 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-baghel431&show_icons=true&theme=tokyonight&border_radius=10" height="165" />
+
+<!-- ⭐ Working Stats Card (New Domain) -->
+<img src="https://github-readme-stats-git-main-ansh0007.vercel.app/api?username=Ankit-baghel431&show_icons=true&theme=tokyonight&border_radius=10" height="165" />
+
+<!-- ⭐ Working Streak Card -->
 <img src="https://streak-stats.demolab.com?user=Ankit-baghel431&theme=tokyonight&border_radius=10" height="165" />
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-baghel431&layout=compact&theme=tokyonight&border_radius=10" height="150" />
+
+<!-- ⭐ Working Top Languages Card -->
+<img src="https://github-readme-stats-git-main-ansh0007.vercel.app/api/top-langs/?username=Ankit-baghel431&layout=compact&theme=tokyonight&border_radius=10" height="150" />
+
 </p>
 
 ---
