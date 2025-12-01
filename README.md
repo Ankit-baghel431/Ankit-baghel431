@@ -39,4 +39,72 @@ I enjoy creating apps that are **simple, fast, and intuitive**.
 
 # 🔥 Projects  
 
-### 🌦 Weather App (Android – Java)
+### 🌦 Weather App (Android – Java)  
+✔ Fetches real-time weather using **OpenWeatherMap API**  
+✔ Google Location Services  
+✔ Displays temp, min/max, date, and city  
+
+### 🎵 Sangeet App – Music Player  
+✔ Local audio scanning  
+✔ Play/Pause/Skip/Seek  
+✔ Dexter + MediaPlayer APIs  
+
+### 🛍 Product Search Platform  
+✔ Price comparison  
+✔ AI-based insights  
+✔ Smart recommendations  
+
+### 💬 Real-time Chat App  
+✔ React + MongoDB  
+✔ Authentication  
+✔ Smooth animations  
+
+### 🎟 Movie Ticket Booking App  
+✔ Seat selection  
+✔ Payment flow  
+✔ Recommendations  
+
+---
+
+# 🏆 Achievements  
+- 🥇 **250+ LeetCode problems solved**  
+- 🥈 **Code Auction Hackathon – 12th Rank (150 teams)**  
+- 🎓 **NPTEL – Software Engineering**  
+- 🎓 **Android Development – EduSkills**
+
+---
+
+# 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-baghel431&show_icons=true&theme=tokyonight&border_radius=10" height="165" />
+<img src="https://streak-stats.demolab.com?user=Ankit-baghel431&theme=tokyonight&border_radius=10" height="165" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-baghel431&layout=compact&theme=tokyonight&border_radius=10" height="150" />
+</p>
+
+---
+
+# 🏅 GitHub Trophy  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankit-baghel431&theme=onedark&row=1&column=7&no-frame=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake (Animated)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankit-baghel431/Ankit-baghel431/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitbaghel1087@gmail.com)
+
+---
+
+# 🚀 *Let’s build something amazing together!*
