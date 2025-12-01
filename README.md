@@ -1,8 +1,8 @@
 <!-- ========================================= -->
-<!-- 🔵 ANIMATED BANNER -->
+<!-- 🟦 PREMIUM BANNER -->
 <!-- ========================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Ankit+Baghel+👋;Software+Developer+%7C+Android+Dev+%7C+Java+Enthusiast;DSA+Learner+with+250%2B+problems+solved;Love+Building+Real-time+Apps+🚀" />
+  <img src="./assets/banner.svg" alt="Ankit Baghel — Software Developer" />
 </p>
 
 ---
@@ -40,35 +40,25 @@ I enjoy creating apps that are **simple, fast, and intuitive**.
 # 🔥 Projects  
 
 ### 🌦 Weather App (Android – Java)  
-✔ Fetches real-time weather using **OpenWeatherMap API**  
-✔ Google Location Services  
-✔ Displays temp, min/max, date, and city  
+✔ Real-time weather via **OpenWeatherMap API** · Google Location Services · Temp/min/max/date/city  
 
 ### 🎵 Sangeet App – Music Player  
-✔ Local audio scanning  
-✔ Play/Pause/Skip/Seek  
-✔ Dexter + MediaPlayer APIs  
+✔ Local audio scanning · Play/Pause/Skip/Seek · **MediaPlayer + Dexter**  
 
 ### 🛍 Product Search Platform  
-✔ Price comparison  
-✔ AI-based insights  
-✔ Smart recommendations  
+✔ Price comparison · AI-based insights · Smart recommendations  
 
 ### 💬 Real-time Chat App  
-✔ React + MongoDB  
-✔ Authentication  
-✔ Smooth animations  
+✔ React + MongoDB · Auth · Smooth UI animations  
 
 ### 🎟 Movie Ticket Booking App  
-✔ Seat selection  
-✔ Payment flow  
-✔ Recommendations  
+✔ Seat selection · Payment flow · Recommendations  
 
 ---
 
 # 🏆 Achievements  
 - 🥇 **250+ LeetCode problems solved**  
-- 🥈 **Code Auction Hackathon – 12th Rank (150 teams)**  
+- 🥈 **Code Auction Hackathon – 12th/150 teams**  
 - 🎓 **NPTEL – Software Engineering**  
 - 🎓 **Android Development – EduSkills**
 
@@ -78,19 +68,27 @@ I enjoy creating apps that are **simple, fast, and intuitive**.
 
 <p align="center">
 
-<!-- ⭐ Working Stats Card (New Domain) -->
-<img src="https://github-readme-stats-git-main-ansh0007.vercel.app/api?username=Ankit-baghel431&show_icons=true&theme=tokyonight&border_radius=10" height="165" />
+<!-- ⭐ Stable Stats Card (mirror) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankit-baghel431&show_icons=true&theme=tokyonight&border_radius=10" height="165" />
 
-<!-- ⭐ Working Streak Card -->
+<!-- ⭐ Streak Card (demolab) -->
 <img src="https://streak-stats.demolab.com?user=Ankit-baghel431&theme=tokyonight&border_radius=10" height="165" />
 
 </p>
 
 <p align="center">
 
-<!-- ⭐ Working Top Languages Card -->
-<img src="https://github-readme-stats-git-main-ansh0007.vercel.app/api/top-langs/?username=Ankit-baghel431&layout=compact&theme=tokyonight&border_radius=10" height="150" />
+<!-- ⭐ Top Languages (mirror) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankit-baghel431&layout=compact&theme=tokyonight&border_radius=10" height="150" />
 
+</p>
+
+---
+
+# 🧭 Metrics (Auto-updating)
+<!-- Generated daily by .github/workflows/metrics.yml -->
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics for Ankit Baghel" />
 </p>
 
 ---
