@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # allow pushing to the repo
+  contents: write   # required to push the SVG
 
 jobs:
   build:
